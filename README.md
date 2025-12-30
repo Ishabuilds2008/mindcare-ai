@@ -1,6 +1,6 @@
-# mindease-ai
+# mindcare-ai
 Student | Exploring AI &amp; app development   Building ideas around mental health tech   Learning, collaborating, and growing in public 🚀
-# MindCare AI 🧠💬
+# MindEase AI 🧠💬
 
 MindCare AI is a mental health–focused AI chat app concept aimed at providing safe, supportive conversations and resources.
 
